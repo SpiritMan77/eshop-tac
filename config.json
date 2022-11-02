@@ -1,0 +1,5 @@
+{
+  "backend": "8085",
+  "db": "mongodb://localhost:27017/eshop",
+  "frontend": "8086"
+}
